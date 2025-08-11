@@ -1,4 +1,4 @@
-# DevPost Blog Platform
+# Dev-ShowCase Platform
 
 A full-stack blog platform with authentication, built with Next.js and Node.js.
 
