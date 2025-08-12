@@ -1,6 +1,6 @@
 # Dev-ShowCase Platform
 
-A full-stack blog platform with authentication, built with Next.js and Node.js.
+A project showcasing website.
 
 ## 🚀 Project Structure
 
